@@ -239,7 +239,7 @@
       "name": "material_0",
       "normalTexture": {
         "index": 1,
-        "texCoord": 1
+        "texCoord": 0
       },
       "pbrMetallicRoughness": {
         "baseColorTexture": {
